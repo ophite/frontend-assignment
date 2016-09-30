@@ -1,0 +1,4 @@
+export default {
+	DROP_MARKER: 'DROP_MARKER',
+	CHECK_MARKERS: 'CHECK_MARKERS'
+};
