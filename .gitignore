@@ -3,3 +3,11 @@
 node_modules
 dist
 coverage
+
+.idea/
+public/
+npm-debug.log
+npm-debug.log.*
+.eslintcache
+
+develop/config/appConfig.js
